@@ -12,6 +12,8 @@ This is a boilerplate build with Vite, React 18, TypeScript, Vitest, Testing Lib
 - [Eslint](https://eslint.org)
 - [Prettier](https://prettier.io)
 
+and credit to [awesome vite](https://github.com/vitjs/awesome-vitejs)
+
 # How to create app based on the template
 clone this template
 ```bash
