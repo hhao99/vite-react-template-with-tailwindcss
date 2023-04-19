@@ -4,13 +4,21 @@ Default use the swc bundler.
 
 # How to create app based on the template
 clone this template
-```npx degit hhao99/vite-react-template-with-tailwindcss my-app```
+```bash
+npx degit hhao99/vite-react-template-with-tailwindcss my-app
+```
 change to the directory
-```cd my-app```
+```bash
+cd my-app
+```
 install the dependencies
-```pnpm install```
+```bash 
+pnpm install
+```
 server with development mode
-```pnpm dev```
+```bash 
+pnpm dev`
+``
 
 # Lint
 
