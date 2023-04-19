@@ -17,8 +17,8 @@ pnpm install
 ```
 server with development mode
 ```bash 
-pnpm dev`
-``
+pnpm dev
+```
 
 # Lint
 
