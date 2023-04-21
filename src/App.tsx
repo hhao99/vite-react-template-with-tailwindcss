@@ -1,9 +1,8 @@
 import './App.css'
 
 function App() {
-
   return (
-    <div className="App">
+    <div className="">
      <h1>Boilerplate for the react development</h1> 
     </div>
   )
